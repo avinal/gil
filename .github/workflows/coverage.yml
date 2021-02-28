@@ -4,8 +4,7 @@ on:
   pull_request:
   push:
     branches:
-      - master
-      - develop
+      - test-cover
 
 env:
   LIBRARY: gil
